@@ -1,4 +1,4 @@
-= Overview
+= 시스템 요구사항
 :encoding: utf-8
 :lang: ko
 :doctype: book
@@ -9,7 +9,11 @@
 :numbered:
 :imagesdir: ../../images
 
-== 개요
+== H/W
 
-== 아키텍처
+== OS
+
+== 계정
+
+== 디렉토리
 
