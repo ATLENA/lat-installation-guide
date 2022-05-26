@@ -1,4 +1,4 @@
-= Apache Web Server Document
+= Apache Web Server Installation Guide
 :author: name
 :email: @emailaddress
 :revnumber: 1.0.0
